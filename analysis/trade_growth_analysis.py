@@ -29,7 +29,7 @@ plt.plot(
 
 plt.axhline(0, linewidth=0.8)
 
-plt.title("Uzbekistan Export and Import Growth, 2016–2025")
+plt.title("Uzbekistan Export and Import Growth, 2016-2025")
 plt.xlabel("Year")
 plt.ylabel("Growth (%)")
 plt.legend()
@@ -38,6 +38,6 @@ plt.grid(True, alpha=0.3)
 plt.tight_layout()
 
 # Save the chart
-plt.savefig("charts/trade_growth_2016_2025.png", dpi=300)
+plt.savefig("charts/trade_growth_2015_2025.png", dpi=300)
 
 plt.show()
