@@ -1,0 +1,63 @@
+OFFICIAL DATA SOURCES
+Uzbekistan Trade Analysis, 2015–2025
+
+Primary data source:
+National Statistics Committee of the Republic of Uzbekistan
+SIAT — Statistical Agency Information and Analysis System
+
+1. Export volume by country, annual
+SIAT indicator code: 1.08.02.0001
+Unit: thousand US dollars
+Update date: 15 July 2026
+Source: National Statistics Committee of the Republic of Uzbekistan
+Use in project: Export data by destination country and partner concentration analysis.
+
+2. Export volume, annual
+SIAT indicator code: 1.08.02.0041
+Unit: thousand US dollars
+Update date: 15 July 2026
+Source: National Statistics Committee of the Republic of Uzbekistan
+Use in project: Cross-checking annual export data.
+
+3. Export of goods and services
+SIAT indicator code: 4.04.01.0002
+Unit: million US dollars
+Update date: 7 July 2025
+Source: National Statistics Committee of the Republic of Uzbekistan
+Use in project: Annual export values and macro-level trade indicators.
+
+4. Import volume, annual
+SIAT indicator code: 1.08.03.0009
+Unit: million US dollars
+Update date: 15 July 2026
+Source: National Statistics Committee of the Republic of Uzbekistan
+Use in project: Annual import values and trade indicators.
+
+5. Foreign trade turnover, annual
+SIAT indicator code: 1.08.01.0001
+Unit: million US dollars
+Update date: 15 July 2026
+Source: National Statistics Committee of the Republic of Uzbekistan
+Use in project: Foreign trade turnover analysis.
+
+6. Foreign trade turnover balance, annual
+SIAT indicator code: 1.08.01.0011
+Unit: million US dollars
+Update date: 15 July 2026
+Source: National Statistics Committee of the Republic of Uzbekistan
+Use in project: Trade balance analysis.
+
+Additional source:
+National Statistics Committee of the Republic of Uzbekistan
+Foreign Economic Activity statistics
+Use in project: Official reference for Uzbekistan's foreign trade statistics, including exports by country, export goods and export structure.
+
+Methodological note:
+The project uses official statistics from the National Statistics Committee of the Republic of Uzbekistan. Export and import indicators are used to calculate trade growth, trade balance, trade openness and concentration measures. Product and partner concentration are measured using the Herfindahl–Hirschman Index (HHI).
+
+Data access:
+SIAT database:
+https://siat.stat.uz/
+
+National Statistics Committee:
+https://stat.uz/
