@@ -29,6 +29,7 @@ The goal is to identify major changes and patterns in Uzbekistan's trade structu
 ## Author
 
 Oybibikhon Jumaniyazova  
+Bachelor’s student in Economics, Tashkent State University of Economics (TSUE)
 
 ## Key Findings
 
