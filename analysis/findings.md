@@ -38,9 +38,11 @@ The Herfindahl–Hirschman Index (HHI) shows different patterns in Uzbekistan’
 
 Partner concentration decreased substantially. Export partner HHI fell from 1,562.93 in 2015 to 1,037.58 in 2025, a decline of approximately 33.6%. This indicates that exports became less concentrated among individual destination markets.
 
-Product concentration remained higher and more volatile. Product HHI increased from 1,870.56 in 2015 to 2,377.55 in 2025, with a peak of 2,676.48 in 2020. It subsequently declined in 2022 before increasing again in 2023 and remaining relatively high through 2025.
+Product concentration increased overall and remained volatile. Product HHI rose from 1,870.56 in 2015 to 2,377.55 in 2025, an increase of approximately 27.1%. It reached a peak of 2,676.48 in 2020, declined to 1,906.10 in 2022, and increased again to 2,377.55 in 2025.
 
-Overall, the results suggest that changes in Uzbekistan’s export geography were more pronounced than changes in its product composition. While destination-market concentration decreased, product concentration remained comparatively high and volatile during the period.
+The contrasting movements of the two indicators are particularly important. While Uzbekistan’s export destinations became less concentrated, its product structure became more concentrated overall. This suggests that changes in export geography were more pronounced than changes in the composition of exported products during the period.
+
+The results should not be interpreted as evidence that Uzbekistan became broadly diversified across all dimensions of trade. Rather, they indicate a shift toward a broader distribution of export destinations alongside continued concentration in the product structure.
 
 6. Overall Assessment
 
