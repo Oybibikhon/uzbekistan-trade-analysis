@@ -1,4 +1,4 @@
-# Uzbekistan Trade Analysis
+# Uzbekistan's International Trade: Trends, Structure and Export Concentration 
 
 ## Overview
 
