@@ -38,3 +38,23 @@ Oybibikhon Jumaniyazova
 - Export destinations became less concentrated, with the shares of several major individual markets declining and a wider range of destinations gaining importance.
 - Export partner concentration decreased by approximately 33.6% between 2015 and 2025, while product concentration remained relatively high and volatile.
 - Overall, Uzbekistan's trade transformation was characterized by expanding trade volumes, changing export geography, and changes in export composition, while trade deficit and product concentration remained important areas for further analysis.
+
+## Visualizations
+
+### Trade Performance
+
+- [Exports vs Imports, 2015–2025](charts/exports_vs_imports_2015_2025.png)
+- [Trade Balance, 2015–2025](charts/trade_balance_2015_2025.png)
+- [Trade Openness, 2015–2025](charts/trade_openness_2015_2025.png)
+- [Export and Import Growth, 2016–2025](charts/trade_growth_2015_2025.png)
+
+### Export Structure
+
+- [Export Structure by Product, 2015–2025](charts/export_structure_2015_2025.png)
+- [Export Partner Structure, 2015–2025](charts/export_partner_structure_2015_2025.png)
+
+### Export Concentration
+
+- [Product Export HHI, 2015–2025](charts/export_hhi_2015_2025.png)
+- [Partner HHI, 2015–2025](charts/partner_hhi_2015_2025.png)
+- [Product vs Partner Concentration, 2015–2025](charts/export_concentration_comparison_2015_2025.png)
