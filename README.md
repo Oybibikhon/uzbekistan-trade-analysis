@@ -32,12 +32,15 @@ Oybibikhon Jumaniyazova
 
 ## Key Findings
 
-- Uzbekistan's foreign trade expanded substantially between 2015 and 2025, with both exports and imports increasing significantly.
-- Imports generally grew faster than exports, resulting in a persistent trade deficit after 2015.
-- The share of mineral fuels in exports declined considerably, while services and other goods became more important.
-- Export destinations became less concentrated, with the shares of several major individual markets declining and a wider range of destinations gaining importance.
-- Export partner concentration decreased by approximately 33.6% between 2015 and 2025, while product concentration remained relatively high and volatile.
-- Overall, Uzbekistan's trade transformation was characterized by expanding trade volumes, changing export geography, and changes in export composition, while trade deficit and product concentration remained important areas for further analysis.
+Uzbekistan’s foreign trade expanded substantially between 2015 and 2025. Exports increased from approximately $12.5 billion to $34.2 billion, while imports rose from approximately $12.4 billion to $48.5 billion.
+
+The expansion of trade was accompanied by a persistent trade deficit. Uzbekistan moved from a small trade surplus of approximately $91 million in 2015 to a deficit of approximately $14.3 billion in 2025.
+
+The composition of exports also changed. The share of mineral fuels declined from approximately 21.5% to 4.3%, while services and other goods increased their shares substantially.
+
+Export concentration followed different patterns across products and destination markets. Partner HHI decreased by approximately 33.6%, indicating lower concentration across export destinations, while product HHI increased by approximately 27.1% and remained volatile.
+
+Overall, the analysis shows that Uzbekistan became more integrated into international trade, with a broader distribution of export destinations but continued concentration in its product structure.
 
 ## Visualizations
 
