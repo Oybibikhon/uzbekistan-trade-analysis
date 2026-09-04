@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes Uzbekistan's foreign trade performance and export structure from 2015 to 2025 using official statistics from the National Statistics Committe of the Republic of Uzbekistan.
+This project analyzes Uzbekistan's foreign trade performance and export structure from 2015 to 2025 using official statistics from the National Statistics Committee of the Republic of Uzbekistan.
 
 The analysis examines export and import dynamics, trade balance, trade openness, export product structure, export partner structure, and export concentration. The project uses the quantitative indicators and the Herfindahl-Hirschman Index (HHI) to evaluate changes in the concentration of Uzbekistan's exports across products and destination markets.
 
